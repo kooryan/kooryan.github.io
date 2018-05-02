@@ -1,6 +1,4 @@
-<!-- <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>  -->
-.dropbtn {
+ .dropbtn {
     background-color: #4CAF50;
     color: white;
     padding: 16px;
@@ -38,4 +36,4 @@
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
-<!-- </style> -->
+
