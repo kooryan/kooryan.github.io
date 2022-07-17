@@ -2,14 +2,15 @@ export default function About() {
     return (
         <section className="about-section">
             <p> 
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                Ornare arcu dui vivamus arcu felis bibendum ut tristique. Ornare lectus sit amet est placerat in egestas erat. 
-                Sit amet venenatis urna cursus eget nunc scelerisque viverra mauris. In pellentesque massa placerat duis ultricies. 
-                Venenatis cras sed felis eget velit aliquet sagittis id. Quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                Non quam lacus suspendisse faucibus. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium. 
-                Id leo in vitae turpis massa. Odio ut sem nulla pharetra diam sit amet. In iaculis nunc sed augue lacus viverra vitae.
-                Pulvinar sapien et ligula ullamcorper malesuada proin. Nisl condimentum id venenatis a condimentum.
+                I am currently a second-year student at the University of Minnesota studying Computer Science and Statistics. 
+                I am a part of the Natural Language Processing group under the mentorship of Prof. Dongyeop Kang, as well as the Swarm Robotics group under the 
+                mentorship of Prof. Maria Gini.
             </p>        
+
+            <p>
+                This past summer I had the opportunity to work at Wells Fargo as a software development intern. 
+            </p>
+
         </section>
     )
 }
