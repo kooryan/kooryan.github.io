@@ -42,7 +42,7 @@ export default function Hello() {
             marginLeft: "0px",
           }}
         >
-          my name is ryan koo (구현교).{" "}
+          my name is ryan koo (구현교){" "}
         </h2>
         <div className="intro">
           <Image
