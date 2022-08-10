@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
       <Hello />
       <About />
-      <Projects />
+      {/* <Projects /> */}
       {/* <Publications /> */}
     </Layout>
   );

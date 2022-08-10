@@ -4,6 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 import Typewriter from 'typewriter-effect';
+import Hello from '../sections/hello';
 
 const name = 'Ryan Koo';
 export const siteTitle = 'Ryan Koo';
@@ -11,69 +12,25 @@ export const siteTitle = 'Ryan Koo';
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container} >
-      {/* <Head>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="description"
-          content="Learn how to build a personal website using Next.js"
-        />
-        <meta
-          property="og:image"
-          content={`https://og-image.vercel.app/${encodeURI(
-            siteTitle,
-          )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
-        />
-        <meta name="og:title" content={siteTitle} />
-        <meta name="twitter:card" content="summary_large_image" />
-      </Head> */}
+      <Head>
+        <link rel="icon" href="/logork2.0.png" />
+      </Head> 
       <header className={styles.header}>
-        {/* {home ? (
-          <>
-            <Image
-              priority
-              src="/images/profile.jpg"
-              className={utilStyles.borderCircle}
-              height={144}
-              width={144}
-              alt={name}
-            />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
-          </>
-        ) : */
-          <>
-            <Link href="/">
-              <a>
-                <Image
-                  priority
-                  src="/profile.jpeg"
-                  className={utilStyles.borderCircle}
-                  height={180}
-                  width={180}
-                  alt={name}
-                />
-              </a>
-            </Link> 
+          {/* <>
             <div>
               <center>
-              <h6 className={utilStyles.headingLg} style={{fontWeight: 100}}> 
+            <h6 className={utilStyles.headingLg} style={{fontWeight: 300}}> 
               {name}
             </h6>
-              <a>github</a> / <a>linkedin</a> / <a> resume </a> / <a> blog </a>
+              <a>about</a> / <a>blog</a> / <a>github</a>
 
               </center>
             </div>
-          </>
-        }
+          </> */}
       </header>
       <main>{children}</main>
-      {/* {!home && (
-        <div className={styles.backToHome}>
-          <Link href="/">
-            <a>← Back to home</a>
-          </Link>
-        </div>
-      )} */}
       <footer>
+        <p>Contact me: koo00017 (at) umn (at) edu</p>
       </footer>
     </div>
   );

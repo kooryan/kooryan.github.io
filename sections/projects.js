@@ -1,6 +1,6 @@
 export default function Projects() {
     return (
-        <section>
+        <section className="projects-section">
             <p> 
                 vvvvvv Downarrow to Projects vvvvv
             </p>

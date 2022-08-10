@@ -1,16 +1,24 @@
 export default function About() {
     return (
-        <section className="about-section">
-            <p> 
-                I am currently a second-year student at the University of Minnesota studying Computer Science and Statistics. 
-                I am a part of the Natural Language Processing group under the mentorship of Prof. Dongyeop Kang, as well as the Swarm Robotics group under the 
-                mentorship of Prof. Maria Gini.
-            </p>        
-
+        <section className="about-section" >
+            <h2>
+                Interests
+            </h2>
+            
+            <p>
+            Outside of my classes I part of the Natural Language Processing group I am fortunate to be mentored by Prof. Dongyeop Kang and previously
+                worked with Jaehyung Kim at KAIST. I am also fortunate to be mentored by Prof. Maria Gini and Dan Boley within the Swarm Robotics Group. 
+            </p>
             <p>
                 This past summer I had the opportunity to work at Wells Fargo as a software development intern. 
             </p>
 
+            <p>
+                When I'm not scratching my head over research or bugs, you can find me playing the cello (ask me about my
+                 favorite classical pieces!), building keyboards, watching soccer, sleeping, or playing Starcraft II. 
+            </p>  
+            {/* <a className="ca3-scroll-down-link ca3-scroll-down-arrow"></a> */}
         </section>
+        
     )
 }

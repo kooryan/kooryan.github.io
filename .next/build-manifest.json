@@ -1,43 +1,34 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills-0d1b80a048d4787e.js"
+    "static/chunks/polyfills.js"
   ],
-  "devFiles": [],
-  "ampDevFiles": [],
+  "devFiles": [
+    "static/chunks/react-refresh.js"
+  ],
+  "ampDevFiles": [
+    "static/chunks/webpack.js",
+    "static/chunks/amp.js"
+  ],
   "lowPriorityFiles": [
-    "static/odLC9Oi9tRATI4_C1DbIz/_buildManifest.js",
-    "static/odLC9Oi9tRATI4_C1DbIz/_ssgManifest.js"
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack-d7b038a63b619762.js",
-      "static/chunks/framework-5f4595e5518b5600.js",
-      "static/chunks/main-3fff476dfb1fd164.js",
-      "static/chunks/64-979e516e1a657cb9.js",
-      "static/css/c39f9723b4064ac0.css",
-      "static/chunks/pages/index-f3f7907aa6fe8469.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
     ],
     "/_app": [
-      "static/chunks/webpack-d7b038a63b619762.js",
-      "static/chunks/framework-5f4595e5518b5600.js",
-      "static/chunks/main-3fff476dfb1fd164.js",
-      "static/css/1e26c452efab84c6.css",
-      "static/chunks/pages/_app-898c436b230de4c1.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_app.js"
     ],
     "/_error": [
-      "static/chunks/webpack-d7b038a63b619762.js",
-      "static/chunks/framework-5f4595e5518b5600.js",
-      "static/chunks/main-3fff476dfb1fd164.js",
-      "static/chunks/pages/_error-a4ba2246ff8fb532.js"
-    ],
-    "/posts/first-post": [
-      "static/chunks/webpack-d7b038a63b619762.js",
-      "static/chunks/framework-5f4595e5518b5600.js",
-      "static/chunks/main-3fff476dfb1fd164.js",
-      "static/chunks/64-979e516e1a657cb9.js",
-      "static/css/c39f9723b4064ac0.css",
-      "static/chunks/pages/posts/first-post-009cc2571559649b.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_error.js"
     ]
   },
   "ampFirstPages": []
