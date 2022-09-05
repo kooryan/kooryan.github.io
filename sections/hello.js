@@ -10,7 +10,7 @@ export default function Hello() {
     <section className="hello-section">
       <h1
         style={{
-          fontSize: "4vw",
+          fontSize: "4em",
           fontWeight: 200,
           height: "0.8em",
           marginLeft: "0px",
@@ -36,7 +36,7 @@ export default function Hello() {
       <div className="fade-in">
         <h2
           style={{
-            fontSize: "2vw",
+            fontSize: "2em",
             fontWeight: 300,
             height: "4em",
             marginLeft: "0px",
@@ -55,7 +55,7 @@ export default function Hello() {
           <figcaption className="fig-caption">New Jersey, Princeton 2022</figcaption>
           </figure>
           <div className="intro-text">
-            <a>[about]</a> / <a>[blog]</a> / <a>[github]</a>
+            <a href="#about_id">[about]</a> / <a>[blog]</a> / <a href="https://github.com/kooryan">[github]</a>
             <p>
               I am a student doing my undergrad at the University of Minnesota
               studying Computer Science and Statistics.
