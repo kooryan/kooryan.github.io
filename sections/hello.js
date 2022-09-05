@@ -10,7 +10,7 @@ export default function Hello() {
     <section className="hello-section">
       <h1
         style={{
-          fontSize: "4.5em",
+          fontSize: "4em",
           fontWeight: 200,
           height: "0.8em",
           marginLeft: "0px",
