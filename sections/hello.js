@@ -10,7 +10,7 @@ export default function Hello() {
     <section className="hello-section">
       <h1
         style={{
-          fontSize: "4em",
+          fontSize: "4vw",
           fontWeight: 200,
           height: "0.8em",
           marginLeft: "0px",
@@ -36,7 +36,7 @@ export default function Hello() {
       <div className="fade-in">
         <h2
           style={{
-            fontSize: "2em",
+            fontSize: "2vw",
             fontWeight: 300,
             height: "4em",
             marginLeft: "0px",
