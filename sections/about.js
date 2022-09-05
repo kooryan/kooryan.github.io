@@ -15,7 +15,7 @@ export default function About() {
 
             <p>
                 When I'm not scratching my head over research or bugs, you can find me playing the cello (ask me about my
-                 favorite classical pieces!), building keyboards, watching soccer, sleeping, or playing Starcraft II. 
+                 favorite classical pieces!), building keyboards, watching soccer (Tottenham FC #1), or sleeping. 
             </p>  
             {/* <a className="ca3-scroll-down-link ca3-scroll-down-arrow"></a> */}
         </section>

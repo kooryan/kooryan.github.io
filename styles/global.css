@@ -19,24 +19,35 @@ section {
   scroll-snap-align: start;
 }
 
-.intro{
+.image-container{
   float: left;
   display: flex;
+  align-content: center;
+  align-items: center;
 }
 
 .intro-text {
-  margin-left: 50px;
-  margin-top: 50px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: normal;
   align-content: center;
 }
 
-.fade-in { animation: fadeIn 5s; }
+.fig-caption {
+  font-size: 8px;
+  text-align: center;
+}
+
+.fade-in { animation: fadeIn 3s; }
 
 @keyframes fadeIn {
   0% { opacity: 0; }
   100% { opacity: 1; }
+}
+
+.hello-caption {
+  margin-left: 55px;
+  margin-top: 280px;
+  font-size: x-small;
 }
 
 * {

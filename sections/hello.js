@@ -10,7 +10,7 @@ export default function Hello() {
     <section className="hello-section">
       <h1
         style={{
-          fontSize: "5em",
+          fontSize: "4.5em",
           fontWeight: 200,
           height: "0.8em",
           marginLeft: "0px",
@@ -44,14 +44,16 @@ export default function Hello() {
         >
           my name is ryan koo (구현교){" "}
         </h2>
-        <div className="intro">
-          <Image
-            priority
-            src="/profile.jpeg"
-            className={utilStyles.borderCircle}
-            height={600}
-            width={600}
+        <div className="image-container">
+          <figure>
+            <Image
+              src="/profile.jpeg"
+              className={utilStyles.borderCircle}
+              height={"600vh"}
+              width={"600vw"}
           />
+          <figcaption className="fig-caption">New Jersey, Princeton 2022</figcaption>
+          </figure>
           <div className="intro-text">
             <a>[about]</a> / <a>[blog]</a> / <a>[github]</a>
             <p>
