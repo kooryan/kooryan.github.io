@@ -55,7 +55,7 @@ export default function Hello() {
           <figcaption className="fig-caption">New Jersey, Princeton 2022</figcaption>
           </figure>
           <div className="intro-text">
-            <a href="">[blog]</a> / <a href="https://www.linkedin.com/in/kooryan/">[linkedin]</a> / <a href="https://github.com/kooryan">[github]</a>
+            <a href="" >[blog]</a> / <a href="https://www.linkedin.com/in/kooryan/">[linkedin]</a> / <a href="https://github.com/kooryan">[github]</a>
             <p>
               I am a student doing my undergrad at the University of Minnesota
               studying Computer Science and Statistics.
