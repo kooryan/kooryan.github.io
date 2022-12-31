@@ -10,11 +10,11 @@ export default function About() {
                 worked with Jaehyung Kim at KAIST and Yekyung Kim at Hyundai Motors. I am also fortunate to be mentored by Prof. Maria Gini, Dan Boley, and John Harwell within the Swarm Robotics Group. 
             </p>
             <p>
-                This past summer I had the opportunity to work at Wells Fargo as a software development intern. 
+                Currently as of Summer 2023 I'll be joining Amazon in Seattle, Washington. 
             </p>
 
             <p>
-                When I'm not scratching my head over research or messing around with code, you can find me playing the cello (ask me about my
+                When I'm not scratching my head over research papers or writing random code snippets, you can find me playing the cello (ask me about my
                  favorite classical pieces!), building keyboards, watching and sometimes playing soccer (COYS), or sleeping. 
             </p>  
             {/* <a className="ca3-scroll-down-link ca3-scroll-down-arrow"></a> */}
