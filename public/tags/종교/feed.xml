@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title></title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog created with Next.js and Tailwind.css</description>
+      <language>en-us</language>
+      <managingEditor>koo00017@umn.edu (Ryan Koo)</managingEditor>
+      <webMaster>koo00017@umn.edu (Ryan Koo)</webMaster>
+      <lastBuildDate>Mon, 31 Jul 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/종교/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/7월31일</guid>
+    <title>BeWhy My Star - 나의 하나님의 믿음과 인생에 동기</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/7월31일</link>
+    
+    <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
+    <author>koo00017@umn.edu (Ryan Koo)</author>
+    <category>인생</category><category>종교</category>
+  </item>
+
+    </channel>
+  </rss>
