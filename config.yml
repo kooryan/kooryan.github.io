@@ -1,0 +1,100 @@
+baseURL: "https://kooryan.netlify.app" 
+title: Ryan Koo
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        # - name: Papers
+        #   url: papers/
+          # weight: 2
+        - name: Blog
+          url: blog/
+          weight: 3
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
+
+params:
+    description: ""
+    author: Ryan Koo
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","blog","papers","data"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Ryan Koo
+          subtitle: "I'm a current Masters student in Computer Science at the University of Minnesota and part of the MinnesotaNLP lab advised by Prof. Dongyeop Kang. My research is focused on the intersection of natural language processing and reinforcement learning methods, and other post-training methods particularly for alignment tasks. **Currently applying for Ph.D. positions.**"
+          imageUrl: "cropped-image.png"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            # - name: Publications
+            #   url: papers/
+            - name: Blog
+              url: blog/
+            - name: Tags
+              url: tags/
+            # - name: Archive
+            #   url: archive/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        - name: CV
+          url: 2025_PHD_CV.pdf
+        - name: Email
+          url: mailto:kooryan03@gmail.com
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=PS7Qw2gAAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/kooryan
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        - name: Twitter
+          url: https://x.com/im_kooryan
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Ryan Koo"
+      icon: logork2.0.png
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
