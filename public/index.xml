@@ -6,8 +6,15 @@
     <description>Recent content on Ryan Koo</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Poker Theory and &#43;EV strategies</title>
+      <link>http://localhost:1313/blog/course1/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/course1/</guid>
+      <description>My thoughts on a mathematical perspective into poker</description>
+    </item>
     <item>
       <title>Location</title>
       <link>http://localhost:1313/location/</link>
@@ -49,20 +56,6 @@
       <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/paper2/</guid>
       <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
-    </item>
-    <item>
-      <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>http://localhost:1313/blog/course1/</link>
-      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/course1/</guid>
-      <description>This graduate course presents classical results in Romance philology.</description>
-    </item>
-    <item>
-      <title>Profanity in Early Irish</title>
-      <link>http://localhost:1313/blog/course2/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/course2/</guid>
-      <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
     <item>
       <title></title>
