@@ -179,7 +179,8 @@ $$
 
 Notice the RHS probability. This is our **pot-odds.**  This leads us to the second principle of hand vs. draw situations.
 
-> In made hand vs. draw situations, **the draw usually calls if it has positive equity in the after
+> 
+In made hand vs. draw situations, **the draw usually calls if it has positive equity in the after
 calling and subtracting the amount of the call.**
 > 
 
