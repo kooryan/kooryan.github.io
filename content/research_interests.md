@@ -6,7 +6,7 @@
 ---
 
 ### [Learning Explainable Dense Reward Shapes via Bayesian Optimization](https://arxiv.org/pdf/2504.16272)
-**Ryan Koo**, Ian Yang, Vipul Raheja, Mingyi Hong, Kwang-Sung Jun, Dongyeop Kang
+**Ryan Koo**, Ian Yang, Vipul Raheja, Mingyi Hong, Kwang-Sung Jun, Dongyeop Kang  
 *Preprint, 2025*
 
 ### [Dynamic Multi-Reward Weighting for Multi-Style Controllable Generation](https://aclanthology.org/2024.emnlp-main.386/)
